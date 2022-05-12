@@ -31,7 +31,6 @@ main {
   font-size: 2em;
   text-transform: uppercase;
 }
-
 footer {
   margin-bottom: 0px;
   margin-left: 10px;
@@ -39,16 +38,17 @@ footer {
 footer ul li {
   margin-left: 50px;
 }
-
 footer ul li a:link {
   color: black;
 }
-
 footer ul li a:visited {
+  color: green;
+}
+footer ul li a:hover {
   color: red;
 }
 footer ul li a:active {
-  color: black;
+  color: purple;
 }
 .box-model {
   margin: 10%;
