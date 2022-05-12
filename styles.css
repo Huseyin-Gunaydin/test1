@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100%;
+  padding: 5px;
+  position: fixed;
+  background-color: cyan;
+}
+main {
+  padding: 50px;
+}
+.list ul {
+  margin-top: 40px;
+}
+
+.list ul li:nth-child(2) {
+  color: blue;
+}
+
+.images {
+  display: inline-block;
+}
+.image {
+  display: inline-block;
+}
+
+.überschrift3 {
+  color: rgb(255, 127, 0);
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+footer {
+  margin-bottom: 0px;
+}
+
+footer ul li a:link {
+  color: black;
+}
+
+footer ul li a:visited {
+  color: red;
+}
+footer ul li a:active {
+  color: black;
+}
+.box-model{
+    margin10%;
+}
