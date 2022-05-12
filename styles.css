@@ -46,6 +46,11 @@ footer ul li a:visited {
 footer ul li a:active {
   color: black;
 }
-.box-model{
-    margin10%;
+.box-model {
+  margin: 10%;
+}
+.images a img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
 }
