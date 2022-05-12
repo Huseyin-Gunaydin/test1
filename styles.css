@@ -34,6 +34,10 @@ main {
 
 footer {
   margin-bottom: 0px;
+  margin-left: 10px;
+}
+footer ul li {
+  margin-left: 50px;
 }
 
 footer ul li a:link {
