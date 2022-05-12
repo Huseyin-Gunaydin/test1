@@ -18,14 +18,12 @@ main {
 .list ul li:nth-child(2) {
   color: blue;
 }
-
 .images {
   display: inline-block;
 }
 .image {
   display: inline-block;
 }
-
 .überschrift3 {
   color: rgb(255, 127, 0);
   font-size: 2em;
